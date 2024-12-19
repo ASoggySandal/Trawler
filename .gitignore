@@ -1,0 +1,17 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Directories to ignore
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+
+# Pytest cache
+.pytest_cache/
+
+# IDE settings
+.vscode/

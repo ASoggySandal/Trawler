@@ -1,0 +1,3 @@
+# For Windows, you may need to install windows-curses separately
+# pip install windows-curses (required for running curses on Windows)
+curses
